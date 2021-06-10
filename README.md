@@ -18,6 +18,8 @@ We know that there's a lot of mixed feelings about take-homes, but we think they
 3. As we grow our remote team, async take-home exercises let us judge candidates from different time zones in the same way and by the same criteria.
 
 ## How to complete this exercise.
-1. blah blah
-2. blah
+1. Choose an exercise that matches your primary domain: 
+    * Frontend
+    * Backend
+2. Fork the repo of the e
 3. blah blah
